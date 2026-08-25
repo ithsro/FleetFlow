@@ -129,37 +129,37 @@ The following screenshots show the main parts of the deployed FleetFlow applicat
 
 The dashboard provides an overview of fleet and operational information.
 
-![FleetFlow Dashboard](./images/dashboard.png)
+![FleetFlow Dashboard](./FleetFlow/images/dashboard.png)
 
 ## Analytics
 
 The analytics section provides a higher-level view of fleet and operational information.
 
-![FleetFlow Analytics](./images/analytics.png)
+![FleetFlow Analytics](./FleetFlow/images/analytics.png)
 
 ## Vehicles
 
 The vehicle management section is used to view and manage fleet vehicles.
 
-![FleetFlow Vehicles](./images/vehicles.png)
+![FleetFlow Vehicles](./FleetFlow/images/vehicles.png)
 
 ## Shipments
 
 The shipment section displays shipment information and its current workflow state.
 
-![FleetFlow Shipments](./images/shipments.png)
+![FleetFlow Shipments](./FleetFlow/images/shipments.png)
 
 ## Trips
 
 The trips section connects shipments with planned journeys and provides actions such as ETA calculation and live tracking.
 
-![FleetFlow Trips](./images/trips.png)
+![FleetFlow Trips](./FleetFlow/images/trips.png)
 
 ## Live Tracking
 
 Live Tracking displays the planned route and vehicle position on an interactive map.
 
-![FleetFlow Live Tracking](./images/live-tracking.png)
+![FleetFlow Live Tracking](./FleetFlow/images/live-tracking.png)
 
 ---
 
